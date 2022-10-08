@@ -5,5 +5,6 @@
 public class gitTest {
     public static void main(String[] args) {
         System.out.println("这是显示的是master 的第一个版本");
+        System.out.println("这里显示的是master的第二个版本");
     }
 }
